@@ -1,0 +1,88 @@
+{
+  "stringTable": {
+    "0": "E:/Android_Code_Base/ByteTrack_ncnn_Android-main/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android24 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncnnyolox_EXPORTS -IE:/Android_Code_Base/ByteTrack_ncnn_Android-main/app/src/main/jni/eigen-3.3.9 -IE:/Android_Code_Base/ByteTrack_ncnn_Android-main/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include/opencv -IE:/Android_Code_Base/ByteTrack_ncnn_Android-main/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include -isystem E:/Android_Code_Base/ByteTrack_ncnn_Android-main/app/src/main/jni/ncnn-20231027-android-vulkan/x86_64/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVModules_x86_64-release.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVModules_x86_64.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-targets.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Debug-x86_64": {
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\.cxx\\cmake\\debug\\x86_64\" ncnnyolox",
+      "buildType": "debug",
+      "toolchain": "2429291252",
+      "abi": "x86_64",
+      "artifactName": "ncnnyolox",
+      "files": [
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\yoloxncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\yolox.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\BYTETracker.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\kalmanFilter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\lapjv.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\STrack.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libncnnyolox.so"
+    }
+  },
+  "toolchains": {
+    "2429291252": {
+      "cppCompilerExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

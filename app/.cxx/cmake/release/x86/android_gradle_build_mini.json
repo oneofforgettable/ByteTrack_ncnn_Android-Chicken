@@ -1,0 +1,30 @@
+{
+  "buildFiles": [
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVModules_x86.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVModules_x86-release.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\src\\main\\jni\\ncnn-20231027-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Release-x86": {
+      "artifactName": "ncnnyolox",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\.cxx\\cmake\\release\\x86\" ncnnyolox",
+      "abi": "x86",
+      "output": "E:\\Android_Code_Base\\ByteTrack_ncnn_Android-main\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libncnnyolox.so"
+    }
+  }
+}
