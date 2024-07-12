@@ -29,16 +29,3 @@ https://drive.google.com/file/d/1rqO74CYCNrmRAg8Rra0JP3yZtJ-rfket/view or 百度
 ## step4
 Open this project with Android Studio, build it and enjoy!
 
-# demo
-1.Bytetrack_nano
-
-https://user-images.githubusercontent.com/56180347/175547330-2e462243-a5bd-475f-a2e0-04b5498f669d.mp4
-
-2.Bytetrack_tiny
-
-https://user-images.githubusercontent.com/56180347/175547118-acaa9dcf-00af-4725-9192-fbd06cc8ce30.mp4
-
-# Reference
-https://github.com/ifzhang/ByteTrack
-
-https://github.com/FeiGeChuanShu/ncnn-android-yolox
